@@ -1,0 +1,6 @@
+Once the project is open in Android Studio, you can build and run the app on an Android device or emulator by clicking the "Run" button in the toolbar.
+
+The app has a simple user interface that allows users to enter their weight and height in either metric or imperial units.
+Once the user enters their information and clicks the "Calculate" button, the app will display their BMI and a corresponding message 
+that indicates whether they are underweight, normal weight, overweight, or obese.
+
